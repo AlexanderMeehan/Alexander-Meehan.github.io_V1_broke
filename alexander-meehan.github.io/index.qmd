@@ -1,7 +1,24 @@
 ---
 title: "Alexander Meehan"
 ---
+---
+title: "Alexander Meehan"
+---
 
-This is a Quarto website.
+# Hi, I'm Alexander 👋
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm an MSc Business Analytics candidate at Dublin City University with a 
+background in Economics and Politics. I'm interested in using data to solve 
+real business problems — from forecasting demand to building dashboards that 
+make complex information easy to act on.
+
+This portfolio showcases my projects, skills and experience as I complete my 
+masters and move into the world of data and business analytics.
+
+I'm available for opportunities from **May 2026**.
+
+💼 [LinkedIn](https://linkedin.com/in/alexander-meehan-267875208)
+
+---
+
+[About Me](about.qmd) · [Projects](projects.qmd) · [CV](cv.qmd)
