@@ -2,7 +2,6 @@ project:
   type: website
   output-dir: docs
 
-
 website:
   title: "Alexander Meehan"
   navbar:
@@ -12,16 +11,11 @@ website:
       - about.qmd
 
 format:
-  html: 
-  theme:
-    - cosmo
-    - custom.scss
-      light: flatly
-      dark: darkly
-      fontsize: 1.1em
-      linestretch: 1.7
-    css: styles.css
-    toc: true
-
-
-
+  html:
+    theme:
+      light:
+        - flatly
+        - custom.scss
+      dark:
+        - darkly
+        - custom.scss
