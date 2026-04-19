@@ -1,0 +1,38 @@
+---
+title: "Projects"
+---
+
+## Applied Consultancy Project *(MSc Dissertation)*
+**Dublin City University | 2025–2026**
+
+### Overview
+Led an end-to-end data analytics consultancy engagement for an SME, focused on 
+optimising product buying and inventory management through machine learning and 
+data visualisation.
+
+### My Role
+Served as **project lead and primary point of contact**, coordinating team collaboration 
+and managing client communication throughout the project lifecycle.
+
+### What I Built
+- **Demand forecasting models** — Implemented machine learning models to predict 
+product demand and streamline supply chain operations
+- **Interactive dashboards** — Developed visualisations to translate complex datasets 
+into clear, actionable insights for non-technical stakeholders
+
+### Skills Used
+`Python` `Machine Learning` `Data Visualisation` `SQL` `Stakeholder Communication`
+
+---
+
+## Sales Dashboard
+A financial overview dashboard for an SME, analysing monthly revenue, costs and 
+profit across a full calendar year. Built using Python and Matplotlib.
+
+[📊 View Dashboard](sales_dashboard.qmd)
+
+---
+
+## More Projects Coming Soon
+Currently completing my MSc — additional projects will be added here upon graduation 
+in September 2026.

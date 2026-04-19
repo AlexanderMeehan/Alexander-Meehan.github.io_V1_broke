@@ -12,11 +12,10 @@ website:
         text: About
       - href: cv.qmd
         text: CV
-      - href: projects.qmd
+      - href: projects/index.qmd
         text: Projects
       - href: sales_dashboard.qmd
         text: Sales Dashboard
-
 
 format:
   html:
