@@ -16,7 +16,7 @@
         "Python and Matplotlib. This dashboard is is similar to those that we have prodcued as \n",
         "part of the Applied Consultancy Project. (For data protection reasons, the data repsented here is fictional)"
       ],
-      "id": "228e7968"
+      "id": "2970ecaf"
     },
     {
       "cell_type": "code",
@@ -78,7 +78,7 @@
         "\n",
         "fig.show()"
       ],
-      "id": "00f1a077",
+      "id": "78cf520e",
       "execution_count": null,
       "outputs": []
     },
@@ -92,7 +92,7 @@
         "- **Costs** remained controlled, never exceeding 50% of revenue\n",
         "- **Profit** was positive every month, reaching **€60k** in December"
       ],
-      "id": "0efe56ff"
+      "id": "805f3f4a"
     }
   ],
   "metadata": {
